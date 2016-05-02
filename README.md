@@ -12,7 +12,7 @@ touch index.html
 touch food.js
 ```
 
-### Host machine
+### Make the Files
 
 ```bash
 mkdir -p ~/workspace/group-projects/spa/food && cd $_
