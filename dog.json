@@ -9,28 +9,28 @@
             {
               "name": "32oz",
               "price": 9.99
-            },
+            }, // 32 oz name and price all natural chuck wagon
             {
               "name": "64oz",
               "price": 17.99
-            }
-          ]
-        },
+            } // 64 oz name and price all natural chuck wagon
+          ] // volume all natural chuck wagon
+        }, // all natural chuck wagon
         {
           "type": "standard",
           "volumes": [
             {
               "name": "58oz",
               "price": 12.99
-            },
+            }, // 58 oz and price chuck wagon
             {
               "name": "72oz",
               "price": 21.99
-            }
-          ]
-        }
-      ]
-    },
+            } // 72 oz and price chuck wagon
+          ] //volume standard chuck wagon
+        } // type standard for chuck wagon
+      ] // types for chuck wagon
+    }, //chuck wagon
     {
       "name": "Purina",
       "types": [
@@ -62,5 +62,5 @@
         }
       ]
     }
-  ]
+  ] //dog brands
 }
