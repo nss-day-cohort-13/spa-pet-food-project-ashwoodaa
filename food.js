@@ -50,12 +50,12 @@ function executeThisCodeAfterFileIsLoaded () {
 
 	if (data.dog_brands) {
 		for (var i = 0; i < data.dog_brands.length; i++) { //variable names start w/ i and go on for some reason
-
+      console.log(data.dog_brands);
 			currentProduct = data.dog_brands[i];
 
       productInfo += `<div class="brandBlock">`;
       productInfo += `<h2>${currentProduct.name}</h2>`;
-      productInfo += `<h3>${(currentProduct.breeds)}</h3>`; // not needed here but here if needed
+      // productInfo += `<h3>${(currentProduct.breeds)}</h3>`; // not needed here but here if needed
       // Loop through the types array in dog_brands
       for (var j = 0; j < currentProduct.types.length; j++) {
         var currentTypes = currentProduct.types[j];
