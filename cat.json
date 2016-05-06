@@ -3,10 +3,7 @@
 		{
 			"name": "Purrina",
 			"breeds": [
-				"Siamese",
-				"Bengal",
-				"Showshoe",
-				"Munchkin"
+				"Siamese, Bengal, Showshoe, Munchkin"
 			],
 			"types": [
 				{
@@ -44,10 +41,7 @@
 		{
 			"name": "Meow Meal",
 			"breeds": [
-				"Manx",
-				"Egyptian Mau",
-				"Himalayan",
-				"Rag Doll"
+				"Manx, Egyptian Mau, Himalayan, Rag Doll"
 			],
 			"types": [
 				{
